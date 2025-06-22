@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, moi c'est CHRIStheGuru</h1>
-<h3 align="center">Web Développeur passionné par la blockchain et l'IA</h3>
+<h3 align="center">Web/Mobile Dev passionné par la blockchain et l'IA</h3>
 --
 🚀 Mon objectif ? Créer des applications web et mobiles innovantes, performantes et connectées aux technologies modernes
 
