@@ -5,8 +5,8 @@
 
 ## 🧠 Ce que j'apprends en ce moment
 
-- ⚙️ **Express.js** — pour construire des APIs robustes
-- 🧪 **Next.js** — pour créer des interfaces réactives et dynamiques
+- ⚙️ **Express.js & Nest.js** — pour construire des APIs robustes
+- 🧪 **Next.js  & React-Native** — pour créer des interfaces réactives et dynamiques
 - 🔗 ** Blockchain et Web 3** — pour intégrer la décentralisation dans mes projets
 
 ## ❤️ Ce qui me passionne
