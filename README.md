@@ -1,17 +1,17 @@
-<!-- Header Banner -->
+<!-- Dark Futuristic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=180&section=header&text=CHRIStheGuru&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,100:302b63&height=200&section=header&text=CHRIStheGuru&fontSize=50&animation=fadeIn&fontColor=00FFCC&fontAlignY=35" />
 </p>
 
 <!-- GitHub Avatar -->
 <p align="center">
-  <img src="https://github.com/CHRIStheGuru.png" width="100" style="border-radius:50%" />
+  <img src="https://github.com/CHRIStheGuru.png" width="100" style="border-radius:50%; border:2px solid #00FFCC;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm CHRIStheGuru</h1>
-<h3 align="center">Web & Mobile Developer • AI & Blockchain Enthusiast</h3>
+<h1 align="center" style="color:#00FFCC;">Hi 👋, I'm CHRIStheGuru</h1>
+<h3 align="center" style="color:#FFFFFF;">Web & Mobile Developer • AI & Blockchain Enthusiast</h3>
 
-<p align="center"><i>Building modern, intelligent and decentralized digital experiences.</i></p>
+<p align="center" style="color:#AAAAAA;"><i>Building modern, intelligent and decentralized digital experiences.</i></p>
 
 ---
 
@@ -38,7 +38,7 @@ My focus is on building products that solve real problems with clean, efficient 
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,express,nestjs,nextjs,nodejs,prisma,supabase,cardano" />
+  <img src="https://skillicons.dev/icons?i=js,ts,express,nestjs,nextjs,nodejs,prisma,supabase,cardano&theme=dark" />
 </p>
 
 ---
@@ -46,10 +46,10 @@ My focus is on building products that solve real problems with clean, efficient 
 ## 🔗 Links
 <p align="center">
   <a href="https://christheguru.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00FFCC" />
   </a>
   <a href="https://x.com/chrissalumu_js">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=00FFCC" />
   </a>
 </p>
 
@@ -61,10 +61,11 @@ Feel free to reach out anytime!
 
 ---
 
-<!-- Footer Banner -->
+<!-- Dark Futuristic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=140&section=footer" />
 </p>
+
 
 
 
