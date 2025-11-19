@@ -5,7 +5,7 @@
 
 <!-- GitHub Avatar -->
 <p align="center">
-  <img src="https://github.com/CHRIStheGuru.png" width="100" style="border-radius:50%; border:2px solid #00FFCC;" />
+  <img src="https://avatars.githubusercontent.com/u/163886791?v=4" width="100" style="border-radius:50%; border:2px solid #00FFCC;" />
 </p>
 
 <h1 align="center" style="color:#00FFCC;">Hi 👋, I'm CHRIStheGuru</h1>
