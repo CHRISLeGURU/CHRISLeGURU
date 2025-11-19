@@ -1,3 +1,13 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=180&section=header&text=CHRIStheGuru&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<!-- GitHub Avatar -->
+<p align="center">
+  <img src="https://github.com/CHRIStheGuru.png" width="100" style="border-radius:50%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm CHRIStheGuru</h1>
 <h3 align="center">Web & Mobile Developer • AI & Blockchain Enthusiast</h3>
 
@@ -27,30 +37,35 @@ My focus is on building products that solve real problems with clean, efficient 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cardano-0033AD?logo=cardano&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,express,nestjs,nextjs,nodejs,prisma,supabase,cardano" />
 </p>
 
 ---
 
 ## 🔗 Links
-- 🌍 **Portfolio**: https://christheguru.vercel.app/  
-- 🐦 **Twitter (X)**: https://x.com/chrissalumu_js  
+<p align="center">
+  <a href="https://christheguru.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://x.com/chrissalumu_js">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Let’s Connect
 Open to collaborating on **AI products**, **Web3 applications**, **modern web/mobile apps**, MVPs or hackathon projects.  
 Feel free to reach out anytime!
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=120&section=footer"/>
+</p>
+
 
 
 
