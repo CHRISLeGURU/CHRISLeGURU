@@ -55,7 +55,7 @@ My focus is on building products that solve real problems with clean, efficient 
 
 ---
 
-## ✨ Let’s Connect
+## Let’s Connect
 Open to collaborating on **AI products**, **Web3 applications**, **modern web/mobile apps**, MVPs or hackathon projects.  
 Feel free to reach out anytime!
 
