@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I'm a web and mobile developer passionate about creating fast, modern and intelligent applications powered by **AI**, **Web3**, and today’s most impactful technologies.  
 My focus is on building products that solve real problems with clean, efficient and scalable solutions.
 
@@ -29,7 +29,7 @@ My focus is on building products that solve real problems with clean, efficient 
 
 ---
 
-## ❤️ What Drives Me
+##  What Drives Me
 - 🌐 The vision of a more open, decentralized web  
 - 🤖 The power of AI to enhance user experience and productivity  
 - 📱 Creating apps that are intuitive, useful and future-ready  
