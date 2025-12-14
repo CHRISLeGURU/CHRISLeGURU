@@ -22,10 +22,10 @@ My focus is on building products that solve real problems with clean, efficient 
 ---
 
 ## What I'm Currently Learning & Improving
-- ⚙️ **Express.js & Nest.js** — building robust, scalable APIs  
-- ⚛️ **Next.js & React Native** — crafting smooth, dynamic interfaces  
-- 🔗 **Blockchain & Web3 (Cardano, Multi-chain)** — integrating decentralized features into real-world apps  
-- 🤖 **AI Systems** — assistants, translation tools, automation workflows  
+-  **Express.js & Nest.js** — building robust, scalable APIs  
+-  **Next.js & React Native** — crafting smooth, dynamic interfaces  
+-  **Blockchain & Web3 (Bitcoin,Ethereum,Cardano, Layer 2,...)** — integrating decentralized features into real-world apps  
+-  **AI Systems** — AI assistants, automation workflows and tools
 
 ---
 
