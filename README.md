@@ -30,9 +30,9 @@ My focus is on building products that solve real problems with clean, efficient 
 ---
 
 ##  What Drives Me
-- 🌐 The vision of a more open, decentralized web  
-- 🤖 The power of AI to enhance user experience and productivity  
-- 📱 Creating apps that are intuitive, useful and future-ready  
+- The vision of a more open, decentralized web  
+- The power of AI to enhance user experience and productivity  
+- Creating apps that are intuitive, useful and future-ready  
 
 ---
 
