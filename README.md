@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,100:302b63&height=200&section=header&text=CHRIStheGuru&fontSize=50&animation=fadeIn&fontColor=00FFCC&fontAlignY=35" />
 </p>
 
-<!-- GitHub Avatar -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/163886791?v=4" width="100" style="border-radius:50%; border:2px solid #00FFCC;" />
-</p>
-
 <h1 align="center" style="color:#00FFCC;">Hi 👋, I'm CHRIStheGuru</h1>
 <h3 align="center" style="color:#FFFFFF;">Web & Mobile Developer • AI & Blockchain Enthusiast</h3>
 
